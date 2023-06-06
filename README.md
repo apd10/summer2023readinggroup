@@ -7,7 +7,7 @@
 
 ## List of readings
 
-|                                      **Paper**                                     | **Read by** | **Presenter** | **Presentation date** |
-|:----------------------------------------------------------------------------------:|:-----------:|:-------------:|:---------------------:|
-| https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf |     All     |  Aditya Desai |          TBD          |
-|                                                                                    |             |               |                       |
+|        **Paper**        | **Read by** | **Presenter** | **Presentation date** |
+|:-----------------------:|:-----------:|:-------------:|:---------------------:|
+| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) |     All     |  Aditya Desai |          TBD          |
+|                         |             |               |                       |
