@@ -17,3 +17,9 @@
 |||||
 | [Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635)| Aditya             | Aditya              |   06/27/2023 |
 | [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815)                        |  Gaurav           |   Gaurav            | 06/27/2023   |
+
+
+
+### Other interesting links
+
+1. [Interactive linear algebra](https://textbooks.math.gatech.edu/ila/)
