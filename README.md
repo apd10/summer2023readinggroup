@@ -15,8 +15,39 @@
 | [Transformer full stack optimization](https://arxiv.org/pdf/2302.14017.pdf) ( [slides](https://docs.google.com/presentation/d/1QYrTFgImQodIdMBzH_l5tIiyijYf68lXlVD6T-j-76M/edit?usp=sharing) ) | Ben, Gaurav             | Ben              |   06/20/2023 |
 | [Survey on Model compression methods](https://ieeexplore.ieee.org/abstract/document/9043731) ( [slides]())| Apoorv             | Apoorv              |   06/20/2023 |
 |||||
-| LTH and follow ups ([p1](https://arxiv.org/abs/1803.03635), [p2](https://arxiv.org/pdf/1903.01611.pdf), [p3](https://arxiv.org/pdf/1903.01611.pdf(https://arxiv.org/pdf/2002.10365.pdf)))| All except Gaurav | Aditya              |   06/27/2023 |
+| LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))| Aditya | Aditya              |   06/27/2023 |
 | [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815)                        |  Gaurav           |   Gaurav            | 06/27/2023   |
+
+
+## Themes (Ignore the order of papers)
+
+## A. Sparsity based efficiency in ML ( Dr. Chris Re's body of work )
+1. 	Monarch: Expressive Structured Matrices for Efficient and Accurate Training
+2. Pixelated Butterfly: Simple and Efficient Sparses Training for Neural Network Models 
+3. Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time
+4. Scatterbrain: Unifying Sparse and Low-rank Attention
+5. Mongoose: A Learnable LSH Framework for Efficient Neural Network Training.
+
+## B. Long Sequence ML ( Dr. Chris Re's body of work )
+1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness 
+2. Efficiently Modeling Long Sequences with Structured State Spaces
+3. Simple Hardware-Efficient Long Convolutions for Sequence Modeling.
+
+## C. Distributed ML and randomized solutions (Dr. Mitzenmachers's body of work)
+1. THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression
+2. Eden: Communication-efficient and robust distributed mean estimation for federated learning
+3. QUICK-FL: Quick Unbiased Compression for Federated Learning
+4. Drive: One-bit distributed mean estimation
+
+## D. Deep learning understanding via pruning. (Dr. Carbin's body of work )
+1. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+2. Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale
+3. The Early Phase of Neural Network Training
+4. Pruning Neural Networks at Initialization: Why are We Missing the Mark?
+5. The Effect of Data Dimensionality on Neural Network Prunability
+
+
+
 
 
 
