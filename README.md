@@ -28,7 +28,7 @@
 4. Scatterbrain: Unifying Sparse and Low-rank Attention
 5. Mongoose: A Learnable LSH Framework for Efficient Neural Network Training.
 
-## B. Long Sequence ML ( Dr. Chris Re's body of work )
+## B. Efficient Attention ( Dr. Chris Re's body of work )
 1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness 
 2. Efficiently Modeling Long Sequences with Structured State Spaces
 3. Simple Hardware-Efficient Long Convolutions for Sequence Modeling.
