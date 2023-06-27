@@ -54,3 +54,5 @@
 ### Other interesting links
 
 1. [Interactive linear algebra](https://textbooks.math.gatech.edu/ila/)
+2. [Plot 3D graphs online](https://www.geogebra.org/)
+3. [Plot 2D graphs online](https://www.desmos.com/calculator)
