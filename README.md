@@ -17,6 +17,8 @@
 |||||
 | LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))| Aditya | Aditya              |   06/27/2023 |
 | [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815)                        |  Gaurav           |   Gaurav            | 06/27/2023   |
+| Distributed mean estimation and applications | Ben | Ben              |   07/04/2023 |
+| Efficient attention                        |  Kevin           |   Kevin            | 07/04/2023   |
 
 
 ## Themes (Ignore the order of papers)
@@ -40,9 +42,9 @@
 4. Drive: One-bit distributed mean estimation
 
 ## D. Deep learning understanding via pruning. (Dr. Carbin's body of work )
-1. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
-2. Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale
-3. The Early Phase of Neural Network Training
+1. <s>The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks </s>
+2. <s>Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale </s>
+3. <s> The Early Phase of Neural Network Training </s>
 4. Pruning Neural Networks at Initialization: Why are We Missing the Mark?
 5. The Effect of Data Dimensionality on Neural Network Prunability
 
