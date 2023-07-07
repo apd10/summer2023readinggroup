@@ -15,11 +15,12 @@
 | [Transformer full stack optimization](https://arxiv.org/pdf/2302.14017.pdf) ( [slides](https://docs.google.com/presentation/d/1QYrTFgImQodIdMBzH_l5tIiyijYf68lXlVD6T-j-76M/edit?usp=sharing) ) | Ben, Gaurav             | Ben              |   06/20/2023 |
 | [Survey on Model compression methods](https://ieeexplore.ieee.org/abstract/document/9043731) ( [slides](https://docs.google.com/presentation/d/1Z5BIwrF0vlWZKSt0iDdcYbSfr_ySxJ6aGqavJGUoWbM/edit?usp=sharing))| Apoorv             | Apoorv              |   06/20/2023 |
 |||||
-| LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))| Aditya | Aditya              |   06/27/2023 |
+| LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))([slides](https://docs.google.com/presentation/d/1mpRZAj-AlJQCfFeN8L2-9TuZ3C13OUYtYOMw4WvnVxc/edit?usp=sharing))| Aditya | Aditya              |   06/27/2023 |
 | [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815)                        |  Gaurav           |   Gaurav            | 06/27/2023   |
-| Distributed mean estimation and applications | Ben | Ben              |   07/04/2023 |
-| Efficient attention                        |  Kevin           |   Kevin            | 07/04/2023   |
-
+| Distributed mean estimation | Ben | Ben              |   07/05/2023 |
+| Efficient attention                        |  Kevin           |   Kevin            | TBD  |
+| Sparsity based efficiency in ML | Apoorv, Masa | Apoorv              |   07/11/2023 |
+|  NLP+Retreival               |  Atishay,Jonah           |   Atishay            | 07/11/2023  |
 
 ## Themes (Ignore the order of papers)
 
@@ -42,16 +43,19 @@
 4. Drive: One-bit distributed mean estimation
 
 ## D. Deep learning understanding via pruning. (Dr. Carbin's body of work )
-1. <s>The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks </s>
-2. <s>Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale </s>
-3. <s> The Early Phase of Neural Network Training </s>
+1. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+2. Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale
+3. The Early Phase of Neural Network Training
 4. Pruning Neural Networks at Initialization: Why are We Missing the Mark?
 5. The Effect of Data Dimensionality on Neural Network Prunability
 
+## E. NLP + retreival 
 
-
-
-
+1. Language Models as Knowledge Bases?
+2. Augmented Language Models: a Survey
+3. Atlas: Few-shot Learning with Retrieval Augmented Language Models
+4. RETRO Improving Language Models by Retrieving from Trillions of Tokens
+5. REALM: Retrieval-Augmented Language Model Pre-Training
 
 ### Other interesting links
 
