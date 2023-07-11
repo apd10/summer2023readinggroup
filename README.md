@@ -16,13 +16,19 @@
 | [Survey on Model compression methods](https://ieeexplore.ieee.org/abstract/document/9043731) ( [slides](https://docs.google.com/presentation/d/1Z5BIwrF0vlWZKSt0iDdcYbSfr_ySxJ6aGqavJGUoWbM/edit?usp=sharing))| Apoorv             | Apoorv              |   06/20/2023 |
 |||||
 | LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))([slides](https://docs.google.com/presentation/d/1mpRZAj-AlJQCfFeN8L2-9TuZ3C13OUYtYOMw4WvnVxc/edit?usp=sharing))| Aditya | Aditya              |   06/27/2023 |
-| [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815)                        |  Gaurav           |   Gaurav            | 06/27/2023   |
-| Distributed mean estimation | Ben | Ben              |   07/05/2023 |
-| Efficient attention                        |  Kevin           |   Kevin            | TBD  |
+| [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815) ([slides](https://rice-my.sharepoint.com/:p:/g/personal/gg29_rice_edu/Eaci6xgwT-VBjQ0Ym4SKzbcBO4eUBWuc_qNqjLDjYMO_rw?e=gEBf5b))                       |  Gaurav           |   Gaurav            | 06/27/2023   |
+| Distributed mean estimation ([slides]()) | Ben | Ben              |   07/05/2023 |
 | Sparsity based efficiency in ML | Apoorv, Masa | Apoorv              |   07/11/2023 |
 |  NLP+Retreival               |  Atishay,Jonah           |   Atishay            | 07/11/2023  |
+| Efficient attention                        |  Kevin           |   Kevin            | 07/14/2023  |
 
 ## Themes (Ignore the order of papers)
+
+## Surveys
+1. Transformer full stack optimization &#x2705;
+2. Survey on Quantization methods &#x2705;
+3. Survey on Model compression methods &#x2705;
+4. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing &#x2705;
 
 ## A. Sparsity based efficiency in ML ( Dr. Chris Re's body of work )
 1. 	Monarch: Expressive Structured Matrices for Efficient and Accurate Training
@@ -40,17 +46,17 @@
 1. THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression
 2. Eden: Communication-efficient and robust distributed mean estimation for federated learning
 3. QUICK-FL: Quick Unbiased Compression for Federated Learning
-4. Drive: One-bit distributed mean estimation
+4. Drive: One-bit distributed mean estimation &#x2705;
+5. Optimizing the communication-accuracy tradeoff in federated learning with Rate distortion theory &#x2705;
 
 ## D. Deep learning understanding via pruning. (Dr. Carbin's body of work )
-1. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
-2. Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale
+1. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks &#x2705;
+2. Stabilizing the Lottery Ticket Hypothesis / The Lottery Ticket Hypothesis at Scale &#x2705;
 3. The Early Phase of Neural Network Training
 4. Pruning Neural Networks at Initialization: Why are We Missing the Mark?
 5. The Effect of Data Dimensionality on Neural Network Prunability
 
 ## E. NLP + retreival 
-
 1. Language Models as Knowledge Bases?
 2. Augmented Language Models: a Survey
 3. Atlas: Few-shot Learning with Retrieval Augmented Language Models
