@@ -62,6 +62,12 @@
 3. Atlas: Few-shot Learning with Retrieval Augmented Language Models
 4. RETRO Improving Language Models by Retrieving from Trillions of Tokens
 5. REALM: Retrieval-Augmented Language Model Pre-Training
+6. Language Models as Knowledge Bases? [1909.01066] Language Models as Knowledge Bases? (arxiv.org)
+7. Transformer Memory as a Differentiable Search Index
+8. QUANTIFYING MEMORIZATION ACROSS NEURAL LANGUAGE MODELS
+9. Extracting Training Data from Large Language Models Extracting Training Data from Large Language Models
+10. GENERALIZATION THROUGH MEMORIZATION: NEAREST NEIGHBOR LANGUAGE MODELS
+11. Emergent and Predictable Memorization in Large Language Models
 
 ### Other interesting links
 
