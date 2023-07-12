@@ -33,8 +33,8 @@
 ## A. Sparsity based efficiency in ML ( Dr. Chris Re's body of work )
 1. 	Monarch: Expressive Structured Matrices for Efficient and Accurate Training
 2. Pixelated Butterfly: Simple and Efficient Sparses Training for Neural Network Models 
-3. Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time
-4. Scatterbrain: Unifying Sparse and Low-rank Attention
+3. Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time &#x2705;
+4. Scatterbrain: Unifying Sparse and Low-rank Attention &#x2705;
 5. Mongoose: A Learnable LSH Framework for Efficient Neural Network Training.
 
 ## B. Efficient Attention ( Dr. Chris Re's body of work )
@@ -60,7 +60,7 @@
 1. Language Models as Knowledge Bases?
 2. Augmented Language Models: a Survey
 3. Atlas: Few-shot Learning with Retrieval Augmented Language Models
-4. RETRO Improving Language Models by Retrieving from Trillions of Tokens
+4. RETRO Improving Language Models by Retrieving from Trillions of Tokens &#x2705;
 5. REALM: Retrieval-Augmented Language Model Pre-Training
 6. Language Models as Knowledge Bases? [1909.01066] Language Models as Knowledge Bases? (arxiv.org)
 7. Transformer Memory as a Differentiable Search Index
