@@ -21,6 +21,13 @@
 | Sparsity based efficiency in ML ([slides](https://docs.google.com/presentation/d/1zpDMFGuhKoGC7mktG0wbbOWb8H7yiuAbAyF6xqdzG4Y/edit?usp=sharing)) | Apoorv, Masa | Apoorv              |   07/11/2023 |
 |  NLP+Retreival               |  Atishay,Jonah           |   Atishay            | 07/11/2023  |
 | Efficient attention                        |  Kevin           |   Kevin            | 07/14/2023  |
+|  TBD               |  Aditya           |   Aditya            | 07/18/2023  |
+|  TBD                        |  Gaurav           |   Gaurav            | 07/18/2023  |
+|  TBD (aditya is OOO)              |  Ben           |   Ben            | 07/25/2023  |
+|  TBD (aditya is OOO)            |  Kevin           |   Kevin            | 07/25/2023  |
+|  TBD            |  Atishay, Jonah           |   Atishay            | 08/01/2023  |
+|  TBD            |  Apoorv, Masa           |   Apoorv            | 08/01/2023  |
+|  Social & and discuss future edition |  ---        |   ---          | 08/07/2023  |
 
 ## Themes (Ignore the order of papers)
 
