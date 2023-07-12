@@ -27,7 +27,7 @@
 |  TBD (aditya is OOO)            |  Kevin           |   Kevin            | 07/25/2023  |
 |  TBD            |  Atishay, Jonah           |   Atishay            | 08/01/2023  |
 |  TBD            |  Apoorv, Masa           |   Apoorv            | 08/01/2023  |
-|  Social & and discuss future edition |  ---        |   ---          | 08/07/2023  |
+|  Social & and discuss future edition |  ---        |   ---          | 07-12/07/2023  |
 
 ## Themes (Ignore the order of papers)
 
