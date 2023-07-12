@@ -18,7 +18,7 @@
 | LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))([slides](https://docs.google.com/presentation/d/1mpRZAj-AlJQCfFeN8L2-9TuZ3C13OUYtYOMw4WvnVxc/edit?usp=sharing))| Aditya | Aditya              |   06/27/2023 |
 | [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815) ([slides](https://rice-my.sharepoint.com/:p:/g/personal/gg29_rice_edu/Eaci6xgwT-VBjQ0Ym4SKzbcBO4eUBWuc_qNqjLDjYMO_rw?e=gEBf5b))                       |  Gaurav           |   Gaurav            | 06/27/2023   |
 | Distributed mean estimation ([slides]()) | Ben | Ben              |   07/05/2023 |
-| Sparsity based efficiency in ML | Apoorv, Masa | Apoorv              |   07/11/2023 |
+| Sparsity based efficiency in ML ([slides](https://docs.google.com/presentation/d/1zpDMFGuhKoGC7mktG0wbbOWb8H7yiuAbAyF6xqdzG4Y/edit?usp=sharing)) | Apoorv, Masa | Apoorv              |   07/11/2023 |
 |  NLP+Retreival               |  Atishay,Jonah           |   Atishay            | 07/11/2023  |
 | Efficient attention                        |  Kevin           |   Kevin            | 07/14/2023  |
 
