@@ -17,10 +17,10 @@
 |||||
 | LTH and follow ups ([D1](https://arxiv.org/abs/1803.03635), [D2](https://arxiv.org/pdf/1903.01611.pdf), [D3](https://arxiv.org/pdf/2009.08576.pdf))([slides](https://docs.google.com/presentation/d/1mpRZAj-AlJQCfFeN8L2-9TuZ3C13OUYtYOMw4WvnVxc/edit?usp=sharing))| Aditya | Aditya              |   06/27/2023 |
 | [NLP+retrival : Prompt survey](https://dl.acm.org/doi/pdf/10.1145/3560815) ([slides](https://rice-my.sharepoint.com/:p:/g/personal/gg29_rice_edu/Eaci6xgwT-VBjQ0Ym4SKzbcBO4eUBWuc_qNqjLDjYMO_rw?e=gEBf5b))                       |  Gaurav           |   Gaurav            | 06/27/2023   |
-| Distributed mean estimation ([slides-tba]()) | Ben | Ben              |   07/05/2023 |
+| Distributed mean estimation ([slides](https://docs.google.com/presentation/d/1ondtXk95JLTL_hDF_oWRpm_ceoO-mLKAKgbeABK5ka0/edit?usp=sharing)) | Ben | Ben              |   07/05/2023 |
 | Sparsity based efficiency in ML ([slides](https://docs.google.com/presentation/d/1zpDMFGuhKoGC7mktG0wbbOWb8H7yiuAbAyF6xqdzG4Y/edit?usp=sharing)) | Apoorv, Masa | Apoorv              |   07/11/2023 |
 |  NLP+Retreival([slides-tba]())               |  Atishay, Jonah           |   Atishay            | 07/11/2023  |
-| Efficient attention ([slides-tba]())           |  Kevin           |   Kevin            | 07/14/2023  |
+| Efficient attention ([slides](https://docs.google.com/presentation/d/1aly0sMN2WxFLAGbD0eyjtP1HL-xCMjimk3LWFzfOYHQ/edit?usp=sharing))           |  Kevin           |   Kevin            | 07/14/2023  |
 |  Pruning ( one shot pruning, layer collapse & IMP) ([slides](https://docs.google.com/presentation/d/1mpRZAj-AlJQCfFeN8L2-9TuZ3C13OUYtYOMw4WvnVxc/edit?usp=sharing), second half)           |  Aditya           |   Aditya            | 07/18/2023  |
 |  Knowledge content of Language models ([slides-tba]())     |  Gaurav           |   Gaurav            | 07/18/2023  |
 |  TBD (aditya is OOO)              |  Ben           |   Ben            | 07/25/2023  |
