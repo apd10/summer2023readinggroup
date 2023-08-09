@@ -23,11 +23,11 @@
 | Efficient attention ([slides](https://docs.google.com/presentation/d/1aly0sMN2WxFLAGbD0eyjtP1HL-xCMjimk3LWFzfOYHQ/edit?usp=sharing))           |  Kevin           |   Kevin            | 07/14/2023  |
 |  Pruning ( one shot pruning, layer collapse & IMP) ([slides](https://docs.google.com/presentation/d/1mpRZAj-AlJQCfFeN8L2-9TuZ3C13OUYtYOMw4WvnVxc/edit?usp=sharing), second half)           |  Aditya           |   Aditya            | 07/18/2023  |
 |  Knowledge content of Language models ([slides-tba]())     |  Gaurav           |   Gaurav            | 07/18/2023  |
-|  TBD (aditya is OOO)              |  Ben           |   Ben            | 07/25/2023  |
-|  TBD (aditya is OOO)            |  Kevin           |   Kevin            | 07/25/2023  |
-|  TBD            |  Atishay, Jonah           |   Atishay            | 08/01/2023  |
-|  TBD            |  Apoorv, Masa           |   Apoorv            | 08/01/2023  |
-|  Wrap up and next edition |  ---        |   Aditya          | 08/08/2023  |
+|  Homomorphic Compression using quantization([slides-tba]())               |  Ben           |   Ben            | 07/25/2023  |
+|  KV Cache memory issues in GenAI ([slides](https://docs.google.com/presentation/d/1_Op55_JlvunCiWo8iqfkADVGSEyzq1Dh1j2NXc2TjXI/edit?usp=sharing))           |  Kevin           |   Kevin            | 07/25/2023  |
+|  REALM([slides-tba]())       |  Atishay, Jonah           |   Atishay            | 08/01/2023  |
+|  Deja Vu (sparsity based efficiency)([slides-tba]())             |  Apoorv, Masa           |   Apoorv            | 08/01/2023  |
+|  Wrap up and next edition |  ---        |   Aditya          | 08/15/2023  |
 
 ## Themes (Ignore the order of papers)
 
@@ -47,10 +47,11 @@
 ## B. Efficient Attention
 1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness  &#x2705;
 2. Efficiently Modeling Long Sequences with Structured State Spaces &#x2705;
-3. Simple Hardware-Efficient Long Convolutions for Sequence Modeling.
+3. Simple Hardware-Efficient Long Convolutions for Sequence Modeling. &#x2705;
+4. ScissorHands : Persistence of Importance &#x2705;
 
 ## C. Distributed ML
-1. THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression
+1. THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression &#x2705;
 2. Eden: Communication-efficient and robust distributed mean estimation for federated learning
 3. QUICK-FL: Quick Unbiased Compression for Federated Learning
 4. Drive: One-bit distributed mean estimation &#x2705;
@@ -71,7 +72,7 @@
 2. How Much Knowledge Can You Pack Into the Parameters of a Language Model?  &#x2705;
 3. Atlas: Few-shot Learning with Retrieval Augmented Language Models
 4. RETRO Improving Language Models by Retrieving from Trillions of Tokens &#x2705;
-5. REALM: Retrieval-Augmented Language Model Pre-Training
+5. REALM: Retrieval-Augmented Language Model Pre-Training &#x2705;
 6. Language Models as Knowledge Bases? [1909.01066] Language Models as Knowledge Bases? (arxiv.org)
 7. Transformer Memory as a Differentiable Search Index
 8. QUANTIFYING MEMORIZATION ACROSS NEURAL LANGUAGE MODELS  &#x2705;
